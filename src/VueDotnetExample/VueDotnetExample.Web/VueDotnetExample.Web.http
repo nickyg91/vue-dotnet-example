@@ -1,0 +1,6 @@
+@VueDotnetExample.Web_HostAddress = http://localhost:5109
+
+GET {{VueDotnetExample.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
