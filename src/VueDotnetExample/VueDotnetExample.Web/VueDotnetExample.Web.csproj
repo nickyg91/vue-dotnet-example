@@ -7,6 +7,7 @@
         <SpaRoot>client-app\</SpaRoot>
         <SpaProxyServerUrl>https://localhost:5002</SpaProxyServerUrl>
         <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
     <ItemGroup>
